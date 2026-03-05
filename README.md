@@ -18,6 +18,6 @@
 </ul>
 <img src="images/minha-foto.jpg" alt="Minha foto" width="200">
 <p>Conecte-se comigo no <a href="https://www.linkedin.com/in/seu-perfil"
-target="_blank">LinkedIn</a>!</p>
+target="_blank">Instagram</a>!</p>
 </body>
 </html>
