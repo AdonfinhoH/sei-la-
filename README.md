@@ -7,7 +7,8 @@
 </head>
 <body>
 <h1>Olá, eu sou Matheus N.S!</h1>
-<p>Sou estudante do ensino médio e apaixonado(a) por tecnologia e meu interesse. Gosto de dormi joga,ouvir musica e aprender coisas novas.</p>
+<p>Sou estudante do ensino médio e apaixonado(a) por tecnologia e meu interesse e computação grafica.
+  Gosto de dormi joga,ouvir musica e aprender coisas novas.</p>
 
 <h2>Meus Interesses:</h2>
 <ul>
