@@ -17,7 +17,6 @@
 <li>Música</li>
 </ul>
 <img src="images/minha-foto.jpg" alt="Minha foto" width="200">
-<p>Conecte-se comigo no <a href="https://www.instagram.com/in/seu-perfil"
-target="_blank">Instagram</a>!</p>
+<p>Conecte-se comigo no <a href="https://www.instagram.com/l__aleatorio__l"target="_blank">Instagram</a>!</p>
 </body>
 </html>
