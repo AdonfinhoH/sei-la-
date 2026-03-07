@@ -16,7 +16,7 @@
 <li>Jogos</li>
 <li>Música</li>
 </ul>
-<img src="images/minha-foto.jpg" alt="Minha foto" width="200">
+<img src="https://drive.google.com/uc?export=view&id=1AbCDEfgHIJKlmnopQRstu" alt="Minha foto" width="200">
 <p>Conecte-se comigo no <a href="https://www.instagram.com/l__aleatorio__l"target="_blank">Instagram</a>!</p>
 </body>
 </html>
